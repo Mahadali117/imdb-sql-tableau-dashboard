@@ -1,3 +1,4 @@
+-- Checks movie counts, duplicate IDs, missing values, and invalid runtimes.
 SELECT
     COUNT(*) AS total_rows,
     COUNT(DISTINCT movie_id) AS unique_movie_ids,
