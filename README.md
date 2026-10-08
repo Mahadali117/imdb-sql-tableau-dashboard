@@ -1,6 +1,7 @@
 # IMDb Movie Explorer | SQL & Tableau
 
 An analysis of 250 top-rated IMDb films using SQL and Tableau. This project explores ratings, voting activity, genres, release decades, runtimes, and recurring actors and directors.
+[View the interactive dashboard](https://public.tableau.com/views/Project_IMDb_Movie_Explorer/IMDbMovieExplorer)
 
 
 ## Project Questions
